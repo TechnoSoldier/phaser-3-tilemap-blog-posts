@@ -39,6 +39,7 @@
          "y":0
         }, 
         {
+         "color":"#00ff00",
          "draworder":"topdown",
          "id":4,
          "name":"Objects",
@@ -60,9 +61,55 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":6,
+         "name":"Player",
+         "objects":[
+                {
+                 "height":0,
+                 "id":277,
+                 "name":"StartingPosition",
+                 "point":true,
+                 "rotation":0,
+                 "type":"StartingPosition",
+                 "visible":true,
+                 "width":0,
+                 "x":410.666666666667,
+                 "y":1798.66666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":7,
+         "name":"Portal",
+         "objects":[
+                {
+                 "height":0,
+                 "id":278,
+                 "name":"Portal",
+                 "point":true,
+                 "rotation":0,
+                 "type":"Portal ",
+                 "visible":true,
+                 "width":0,
+                 "x":270.666666666667,
+                 "y":1118.66666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":277,
+ "nextlayerid":8,
+ "nextobjectid":280,
  "orientation":"orthogonal",
  "properties":[
         {
