@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "enemy.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 130,
+				"h": 50
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "atlas.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 128,
+						"h": 48
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:185ebb07edd93bb74f51b62a90754e84:34c1da63d794cb8162687073e9b17025:a99356c10d69482e9bee53d25c3d05e1$"
+	}
+}
